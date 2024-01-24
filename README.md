@@ -62,4 +62,3 @@ Feel free to contribute to the project by implementing the missing genre extract
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
