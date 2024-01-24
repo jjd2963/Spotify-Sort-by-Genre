@@ -1,4 +1,4 @@
-# Spotify Liked Songs Sorter
+# Spotify Sort by Genre
 
 ## Overview
 
